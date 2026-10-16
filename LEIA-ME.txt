@@ -1,0 +1,7 @@
+VendeZap Agenda — PWA demonstrativa
+
+Para instalar no Android ou iPhone, publique TODOS os arquivos desta pasta em um site HTTPS (por exemplo, hospedagem estática). Abrir index.html diretamente como arquivo não habilita instalação PWA nem sincronização.
+Android: abrir endereço HTTPS no Chrome e usar Instalar app / Adicionar à tela inicial.
+iPhone: abrir endereço HTTPS no Safari, tocar Compartilhar e Adicionar à Tela de Início.
+
+ATENÇÃO: apenas protótipo. Dados salvos localmente no navegador; sem login, nuvem, WhatsApp automático ou backup remoto. Use somente dados fictícios.
